@@ -1,0 +1,38 @@
+body{
+    background-color: hsl(0, 0%, 8%);
+}
+main{
+    color: hsl(0, 0%, 100%);
+    background-color: hsl(0, 0%, 12%);
+    width: 295px;
+    height: 900px;
+    padding-left: 80px;
+    padding-right: 80px;
+    padding-top: 0px;
+    margin:400px;
+    border-radius: 10px;
+}
+img{
+    width: 200px; 
+    height: 200px;
+    border-radius: 50%;
+    text-align: center;
+    padding: 50px;
+}
+h2{
+    color:hsl(75, 94%, 57%);
+    padding-bottom: 30px;
+    text-align: center;
+}
+.check{
+    padding-bottom: 10px;
+    font-size: large;
+}
+.abc{
+    color: white;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border: 2px solid black;
+    border-radius: 10px;
+    background-color: hsl(0, 0%, 20%);
+}
